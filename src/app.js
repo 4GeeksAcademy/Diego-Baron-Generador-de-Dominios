@@ -15,5 +15,5 @@ let tdd = ['.com', '.net', '.es' ];
         }
       }
     }
- 
+                      // --------> El Codigo para ejecutarlo es $ node ./src/app.js  <------------
 
